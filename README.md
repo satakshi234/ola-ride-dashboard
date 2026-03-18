@@ -84,6 +84,14 @@ The main goal of this project is to:
 ## 📷 Dashboard Preview
 ![Dashboard](Ola-dashboard.png)
 
+
+## Vehicle_Type
+![Dashboard](Vehicle_Type.png)
+
+
+## Revenue
+![Dashboard](Revenue.png)
+
 ---
 
 ## 🚀 Key Learnings
